@@ -1,0 +1,40 @@
+/*#region Variabil4es */
+:root {
+    --tr-bg-main: #083b4c;
+    --tr-number-bg: #1389b2;
+    --tr-fizz-bg: #0cd6a1;
+    --tr-buzz-bg: #ffd166;
+    --tr-fizz-buzz-bg: #f0466f;
+}
+
+
+.tr-bg-main {
+    background-color: var(--tr-bg-main);
+}
+
+.tr-bg-number {
+    background-color: var(--tr-number-bg);
+}
+
+.tr-bg-fizz {
+    background-color: var(--tr-fizz-bg);
+}
+
+.tr-bg-buzz {
+    background-color: var(--tr-buzz-bg);
+}
+
+.tr-bg-fizz-buzz {
+    background-color: var(--tr-fizz-buzz-bg);
+}
+
+/*#endregion Variables  */
+
+
+
+
+/*#region DEBUGGER */
+
+
+
+/*#endregion DEBUGGER  */
