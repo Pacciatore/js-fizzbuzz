@@ -30,11 +30,34 @@
 
 /*#endregion Variables  */
 
+/*#region CONTENT  */
+
+h1 {
+    font-size: 82px;
+}
+
+#fizzList>* {
+    height: 100px;
+    width: 100px;
+}
+
+
+/*#endregion CONTENT  */
+
 
 
 
 /*#region DEBUGGER */
 
+.debug #fizzBuzzDomTab {
+    min-height: 920px;
+    background-color: gold;
+}
+
+.debug #fizzBuzzDomTab>.col-12:nth-child(2) {
+    min-height: 780px;
+    background-color: purple;
+}
 
 
 /*#endregion DEBUGGER  */
